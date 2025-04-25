@@ -1,0 +1,90 @@
+[
+  {
+    "id": "UXD-001",
+    "name": "Layla Wise",
+    "title": "UX Designer",
+    "role": "UX",
+    "location": "Los Angeles",
+    "timezone": "PST",
+    "features": ["User Research", "Wireframing", "Prototyping", "Usability Testing"],
+    "project_time": 480,
+    "favorite_snack": "Dark Chocolate Brownies"
+  },
+  {
+    "id": "DEV-002",
+    "name": "Isadora Quinn",
+    "title": "Developer",
+    "role": "Dev",
+    "location": "London",
+    "timezone": "GMT",
+    "features": ["Backend API Development", "Database Management", "System Architecture"],
+    "project_time": 360,
+    "favorite_snack": "Salted Pretzels"
+  },
+  {
+    "id": "INFRA-003",
+    "name": "Ethan Miller",
+    "title": "Infra Engineer",
+    "role": "Infra",
+    "location": "London",
+    "timezone": "GMT",
+    "features": ["Server Management", "Cloud Infrastructure"],
+    "project_time": 480,
+    "favorite_snack": "Popcorn"
+  },
+  {
+    "id": "UXD-004",
+    "name": "Anya Sharma",
+    "title": "UX Designer",
+    "role": "UX",
+    "location": "Bangalore",
+    "timezone": "IST",
+    "features": ["User Research", "Wireframing", "Prototyping", "Usability Testing"],
+    "project_time": 480,
+    "favorite_snack": "Mango Lassi"
+  },
+  {
+    "id": "DEV-005",
+    "name": "Ben Carter",
+    "title": "Developer",
+    "role": "Dev",
+    "location": "Mumbai",
+    "timezone": "IST",
+    "features": ["Backend API Development", "Database Management", "System Architecture"],
+    "project_time": 360,
+    "favorite_snack": "Masala Chai"
+  },
+  {
+    "id": "INFRA-006",
+    "name": "Priya Desai",
+    "title": "Infra Engineer",
+    "role": "Infra",
+    "location": "Chennai",
+    "timezone": "IST",
+    "features": ["Server Management", "Cloud Infrastructure"],
+    "project_time": 480,
+    "favorite_snack": "Idli Sambhar"
+  },
+  {
+    "id": "UXD-007",
+    "name": "Liam Johnson",
+    "title": "UX Designer",
+    "role": "UX",
+    "location": "Los Angeles",
+    "timezone": "PST",
+    "features": ["User Research", "Wireframing", "Prototyping", "Usability Testing"],
+    "project_time": 480,
+    "favorite_snack": "Dark Chocolate Brownies"
+  },
+  {
+    "id": "DEV-008",
+    "name": "Chloe Miller",
+    "title": "Developer",
+    "role": "Dev",
+    "location": "London",
+    "timezone": "GMT",
+    "features": ["Backend API Development", "Database Management", "System Architecture"],
+    "project_time": 360,
+    "favorite_snack": "Salted Pretzels"
+  }
+]
