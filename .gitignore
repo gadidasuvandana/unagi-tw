@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 .venv
 *$py.class
+.langgraph_api
 *.so
 .Python
 build/

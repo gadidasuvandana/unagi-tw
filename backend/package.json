@@ -1,0 +1,29 @@
+{
+  "name": "aidocs-ai",
+  "version": "0.0.1",
+  "description": "The AI backend for Aidocs, leveraging Langgraph and RAG to enable intelligent document retrieval and conversational understanding.",
+  "type": "module",
+  "author": "Lokeswaran Aruljothy",
+  "license": "Apache-2.0",
+  "keywords": [
+    "aidocs",
+    "rag",
+    "ai",
+    "documentation",
+    "langchain",
+    "langgraph"
+  ],
+  "dependencies": {
+    "@langchain/community": "^0.3.24",
+    "@langchain/core": "^0.3.30",
+    "@langchain/langgraph": "^0.2.39",
+    "@langchain/openai": "^0.3.17",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.11",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.6",
+    "typescript": "^5.7.3"
+  }
+}
